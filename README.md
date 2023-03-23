@@ -3,7 +3,7 @@ Api Crud operation deployed to aws ec2
 
 
 Step 1:
-Have github, aws cli, vscode installed to you pc 
+required github, aws cli, vscode installed to pc 
 
 
 Step 2:
@@ -11,7 +11,7 @@ Startup an ec2 instance on aws
 ssh into you ec2 instance
 
 Step 3:
-Install dependences
+Install dependencies
 pymongo, pandas, fastapi, uvicorn to your ec2 
 clone your github repo to you ec2 or 
 create a folder and copy python codes to the folder
