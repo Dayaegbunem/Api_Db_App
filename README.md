@@ -8,7 +8,7 @@ required github, aws cli, vscode installed to pc
 
 Step 2:
 Startup an ec2 instance on aws
-ssh into you ec2 instance
+ssh into the ec2 instance
 
 Step 3:
 Install dependencies
