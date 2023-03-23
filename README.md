@@ -33,3 +33,11 @@ Use the public ip of ec2 + colon + port/docs on web to view swagger page
 Create an entry with post request and execute 
 
 ![fastapi_put](https://user-images.githubusercontent.com/126528702/227372152-e3b1b137-0179-4408-ae31-3b1f4d5b5abd.PNG)
+
+
+
+![fastapi_put](https://user-images.githubusercontent.com/126528702/227385235-5f82b047-a373-46d3-b95d-1de9b60737f2.PNG)
+
+
+![mongo_put](https://user-images.githubusercontent.com/126528702/227385198-cc08fbbb-4989-476f-94cf-a3f853e2501c.PNG)
+
