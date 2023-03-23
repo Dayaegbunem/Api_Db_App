@@ -4,16 +4,16 @@ Api Crud operation deployed to aws ec2
 
 Step 1:
 required- Mongodb atlas account with an active database cluster. 
-github, aws cli, vscode installed to pc 
+github, aws cli, vscode installed to pc. 
 
 
 Step 2:
-Startup an ec2 instance on aws
-ssh into the ec2 instance
+Startup an ec2 instance on aws.
+ssh into the ec2 instance.
 
 Step 3:
 Install dependencies
-pymongo, pandas, fastapi, uvicorn to your ec2 
+pymongo, pandas, fastapi, uvicorn to your ec2. 
 clone your github repo to ec2 or 
 create a folder and copy python codes to the folder
 
