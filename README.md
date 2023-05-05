@@ -4,7 +4,7 @@ Api Crud operation deployed to aws ec2
 
 Step 1:
 required- Mongodb atlas account with an active database cluster. 
-github, aws cli, vscode installed to pc. 
+ aws cli, vscode installed to pc. 
 
 
 Step 2:
